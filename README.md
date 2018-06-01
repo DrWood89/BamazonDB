@@ -13,10 +13,11 @@
    
 BamazonDB is an amazon like storefront.
 
-- This node.js and MySQL CLI allows you As a Customer to purchase item of interest and amount 
-     desired using their item_id. 
+- This node.js and MySQL CLI allows you As a Customer to 
+   - Purchase item of interest
+   - Amount desired using their item_id. 
    
--As a Manager it allows you to
+- As a Manager it allows you to
    - Display Current Inventory
    - Display Low Inventor
    - Update, Add or Delete a product through a series of GET, POST, UPDATE and DELETE methods.
