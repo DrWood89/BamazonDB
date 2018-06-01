@@ -11,24 +11,25 @@
 ---
 ### 1-Description :page\_facing\_up:
    
-   BamazonDB is an amazon like storefront. 
-    - This node.js and MySQL CLI allows you As a Customer to purchase item of interest and amount 
+BamazonDB is an amazon like storefront.
+
+- This node.js and MySQL CLI allows you As a Customer to purchase item of interest and amount 
      desired using their item_id. 
    
-   -As a Manager it allows you to
-     - Display Current Inventory
-     - Display Low Inventor
-     - Update, Add or Delete a product through a series of GET, POST, UPDATE and DELETE methods.
+-As a Manager it allows you to
+   - Display Current Inventory
+   - Display Low Inventor
+   - Update, Add or Delete a product through a series of GET, POST, UPDATE and DELETE methods.
     
-   All of this data is stored in a local MySQL database.
+All of this data is stored in a local MySQL database.
    
-   This Node.js is intented showcase the ability to work with a MySQl database to store data and 
-   build a node.js CLI allows us to communicate with the database and manipulate the data as we please.
+This Node.js is intented showcase the ability to work with a MySQl database to store data and 
+build a node.js CLI allows us to communicate with the database and manipulate the data as we please.
 
 ---
 ### 2-Technologies  :computer:
    
-   The following technologies made it possible to bring that project into life
+The following technologies made it possible to bring that project into life
    
 - JavaScript
 - [MySQL](https://www.mysql.com/)
