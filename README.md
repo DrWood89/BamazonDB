@@ -1,6 +1,7 @@
 # BamazonDB
 BamazonDB is an amazon like storefront. A basic node.js and MySQL CLI
 
+---
 ## :mag: Table of contents :mag:
 
 ### [1-Description](https://github.com/DrWood89/BamazonDB#1-description-page_facing_up)
