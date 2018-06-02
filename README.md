@@ -42,8 +42,23 @@ The following technologies made it possible to bring that project into life
 ---
 ### 3-Challenges 
 
+Some of the challenges encountered building this project was working with MySQL. instead of using schemas
+and seeds i went the hard way and use a list of dummy data created in excel to populate the table in my 
+database. I kept getting depricated error wneh
+i run the app because it was trying to take action before recieving data from the database and that's when 
+i figured me and callbacks could be bests of friends. I struggled with getting live updates from my database like update as the action is happening 
+and with also incorporate the third part of the App which the Supervisor view.
+
 ---
 ### 4-Future Updates
+
+As future development i would like to incorporate a Supervisor View that oversees both Customer
+and Manager View. It would
+- Give access to all departments
+- create new Departments
+- Being able to view business progress and growth like How much money invested, sold for, expenses and 
+  benefits
+- Also make the use of npm colors and npm CLI-table to beautify the terminal view.
 
 ---
 ### 4-Preview Video Links
