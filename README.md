@@ -1,4 +1,5 @@
 # BamazonDB
+BamazonDB is an amazon like storefront. A basic node.js and MySQL CLI
 
 ## :mag: Table of contents :mag:
 
@@ -10,8 +11,6 @@
 
 ---
 ### 1-Description :page\_facing\_up:
-   
-BamazonDB is an amazon like storefront.
 
 - This node.js and MySQL CLI allows you As a Customer to 
    - Purchase item of interest
